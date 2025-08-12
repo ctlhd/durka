@@ -3,8 +3,7 @@ V
 S
 
 
-    V
-        V
+           V
         VV
         ADV V   
 
